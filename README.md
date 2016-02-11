@@ -8,4 +8,8 @@ Udacity Nanodegree Program
 ### Project 2: Buildng A Student Intervention System
     * Decision Tree Classifier
     * Support Vector Machines Classifier
+<<<<<<< HEAD
     * Randomized Forest
+=======
+    * Randomized Forest
+>>>>>>> origin/master
