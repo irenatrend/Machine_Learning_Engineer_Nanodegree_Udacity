@@ -10,8 +10,7 @@ Udacity Nanodegree Program
     * Randomized Forest Classifier
     
 #### Project 3: Customer Segmentation
-   * PCA
-   * ICA
-   * K-Mean Clustering
-   * Gaussian Mixture Models
-
+    * PCA
+    * ICA
+    * K-Mean Clustering
+    * Gaussian Mixture Models
