@@ -33,8 +33,8 @@ class LearningAgent(Agent):
 
         # TODO: Update state
         # self.state = inputs
-        self.state = (inputs['light'], inputs['oncoming'], inputs['left'])
-        # self.state = (inputs['light'], inputs['oncoming'], inputs['left'], self.next_waypoint)
+        # self.state = (inputs['light'], inputs['oncoming'], inputs['left'])
+        self.state = (inputs['light'], inputs['oncoming'], inputs['left'], self.next_waypoint)
 
         # TODO: Select action according to your policy
         action = random.choice(self.env.valid_actions)  # Initial random movement / random action
