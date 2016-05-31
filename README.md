@@ -15,3 +15,7 @@ This repository contains projects for Udacity's Machine Learning Engineer Progra
     * ICA
     * K-Mean Clustering
     * Gaussian Mixture Models
+    
+#### Project 4: Train a SmartCab to drive
+    * Q-learning
+
