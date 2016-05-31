@@ -9,8 +9,8 @@
 
 ## Software and Libraries
   For this project, you will need to have the following software and Python libraries installed:
-  Python 2.7
-  NumPy
-  scikit-learn
-  matplotlib
-  iPython Notebook
+  * Python 2.7
+  * NumPy
+  * scikit-learn
+  * matplotlib
+  * iPython Notebook
