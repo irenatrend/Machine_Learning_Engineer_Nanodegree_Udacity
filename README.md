@@ -1,5 +1,6 @@
 ### Machine Learning Engineer Nanodegree Udacity
-Udacity Nanodegree Program
+
+This repository contains projects for Udacity's Machine Learning Engineer Program.
 
 #### Project 1: Predicting Boston Housing Prices
     * Decision Tree Regressor
